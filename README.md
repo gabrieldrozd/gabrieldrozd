@@ -2,7 +2,7 @@
 Currently working on my engineering thesis in computer science<br>using C# for backend and Angular for frontend<br><br>Fun fact: I love dabbling in interesting topics<br><br>**curiosity deepens curiosity, endless story**😌<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drozd_gabriel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drozd-gabriel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/drozdgj) 
 
 # 💻 Tech Stack:
