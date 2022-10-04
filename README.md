@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on my engineering thesis in computer science<br>using C# for backend and Angular for frontend<br><br>Fun fact: I love dabbling in interesting topics<br>curiosity deepens curiosity, endless story😌<br>
+Currently working on my engineering thesis in computer science<br>using C# for backend and Angular for frontend<br><br>Fun fact: I love dabbling in interesting topics<br><br>**curiosity deepens curiosity, endless story**😌<br>
 
 
 ## 🌐 Socials:
