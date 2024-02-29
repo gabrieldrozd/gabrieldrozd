@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on a management system for a private language school<br>using .NET for the backend, React for the frontend and PostgreSQL as main database<br>with the addition of a wide variety of libraries, design patterns and best practices.<br><br>I love dabbling in interesting topics.<br><br>**curiosity deepens curiosity, endless story**😌<br>
+Currently working on a management system for a private English school<br>using .NET, PostgreSQL + the addition of a wide variety of libraries, design patterns and best practices.<br><br>I love dabbling in interesting topics.<br><br>**curiosity deepens curiosity, endless story**😌<br>
 
 <br/>
 
