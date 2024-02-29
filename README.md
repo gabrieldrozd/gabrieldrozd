@@ -24,12 +24,12 @@ Currently working on a management system for a private language school<br>using 
 # 🧑🏽‍💻 Currently working on:
 
 <div style="display: flex; gap: 1rem">
-    <a href="https://github.com/gabrieldrozd/wisse-backend">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieldrozd&repo=wisse-backend&theme=radical&hide_border=true&border_radius=30" />
+    <a href="https://github.com/gabrieldrozd/Enscool">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieldrozd&repo=Enscool&theme=radical&hide_border=true&border_radius=30" />
     </a>
-    <a href="https://github.com/gabrieldrozd/wisse-frontend">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieldrozd&repo=wisse-frontend&theme=radical&hide_border=true&border_radius=30" />
-    </a>
+    //<a href="https://github.com/gabrieldrozd/wisse-frontend">
+    //    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieldrozd&repo=wisse-frontend&theme=radical&hide_border=true&border_radius=30" />
+    //</a>
 </div>
 
 <br/><br/>
